@@ -1,0 +1,14 @@
+.example-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.example-container>* {
+    width: 100%;
+}
+.sidebar-mini .sidebar {
+    background-color: #2d475f;
+    display: block;
+    font-weight: 200;
+    z-index: 9999;
+}
